@@ -19,7 +19,7 @@ ol  {
    display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background: url(/Assets/img/plumas-rosas.jpg) fixed;
+    background: url(/plumas-rosas.jpg) fixed;
     margin: 0 50px 10px;
     border-radius: 10px;
     list-style-type: none;
@@ -547,7 +547,7 @@ align-items: center;
 /* --- Estilos de contaco.css --- */
 
 body {
-    background: url(/Assets/img/chal-rosa.jpg) fixed;
+    background: url(/chal-rosa.jpg) fixed;
     margin: 0;
     padding: 0;
     padding-bottom: 100px;
@@ -573,7 +573,7 @@ header {
 ul {
     display: flex;
     flex-wrap: wrap;
-    background: url(/Assets/img/plumas-rosas.jpg) fixed;
+    background: url(/plumas-rosas.jpg) fixed;
     margin: 0 50px 10px 50px;
     border-radius: 10px;
     list-style-type: none;
